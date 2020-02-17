@@ -211,6 +211,7 @@ li .effect:hover{
   background: transparent;
 }
 .parallax-window-two{
+  background: transparent;
   min-height: 250px;
 }
 .img_right{
@@ -417,6 +418,7 @@ li .effect:hover{
   background-attachment: fixed;
 }
 .parallax-window-two{
+  background: transparent;
   min-height: 250px;
 }
 .img_right{
